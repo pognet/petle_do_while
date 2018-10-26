@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/petle.dir/main.c.o  -o petle 
